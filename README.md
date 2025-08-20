@@ -1,9 +1,8 @@
 <h1 align="center">🏙️ Urban Elements</h1>
 
 <p align="center">
-A full-stack web application inspired by the <strong>Urban Elements Workshop project</strong>,
-built with <strong>Node.js, Express, and MongoDB</strong> on the backend,
-and <strong>HTML/CSS/JavaScript</strong> on the frontend.
+A full-stack <strong>MERN</strong> web application inspired by the <strong>Urban Elements Workshop</strong> project.<br/>
+Backend: <strong>Node.js + Express + MongoDB</strong> • Frontend: <strong>React</strong>
 </p>
 
 ---
@@ -12,20 +11,28 @@ and <strong>HTML/CSS/JavaScript</strong> on the frontend.
 
 - [🚀 Features](#-features)
 - [📂 Project Structure](#-project-structure)
-- [⚙️ Installation & Setup](#️-installation--setup)
+- [⚙️ Setup (MERN)](#️-setup-mern)
+  - [Backend Setup](#backend-setup)
+  - [Frontend (React) Setup](#frontend-react-setup)
+  - [Run Both Together](#run-both-together)
 - [🛤️ API Endpoints](#️-api-endpoints)
-- [📌 Future Improvements](#-future-improvements)
-- [👨‍💻 Author](#-author)
+- [🔐 Environment Variables](#-environment-variables)
+- [�� Future Improvements](#-future-improvements)
+- [��‍💻 Author](#-author)
+
+---
 
 ## 🚀 Features
 
-- 🔐 **User Authentication** (signup/login)
-- 📦 **Product Management** (view products, categories)
-- 🛒 **Shopping Cart** (add/remove/update items)
-- 🧾 **Orders** (checkout flow connected to cart)
-- 🎨 **Responsive Frontend** with modular HTML, CSS, JS
-- ⚡ **REST API** backend with Express
+- 🔐 Auth (Register/Login with JWT)
+- 📦 Product listing & details
+- 🛒 Shopping cart (localStorage first; optional backend cart)
+- 🧾 Orders (checkout from cart)
+- 🎛️ Admin-ready structure (controllers/routes/models)
+- ⚡ REST API + React SPA
+- 🧪 Ready for tests (add Jest/Vitest later)
 
+---
 
 ## 📂 Project Structure
 
