@@ -11,12 +11,9 @@ Backend: <strong>Node.js + Express + MongoDB</strong> • Frontend: <strong>Reac
 
 - [🚀 Features](#-features)
 - [📂 Project Structure](#-project-structure)
-- [⚙️ Setup (MERN)](#️-setup-mern)
-  - [Backend Setup](#backend-setup)
-  - [Frontend (React) Setup](#frontend-react-setup)
-  - [Run Both Together](#run-both-together)
-- [🛤️ API Endpoints](#️-api-endpoints)
+- [⚙️ Installation & Setup](#️-installation--setup)
 - [🔐 Environment Variables](#-environment-variables)
+- [🛤️ API Endpoints](#️-api-endpoints)
 - [�� Future Improvements](#-future-improvements)
 - [��‍💻 Author](#-author)
 
