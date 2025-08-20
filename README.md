@@ -137,4 +137,5 @@ Simply open `frontend/index.html` in your browser, or serve with a live server e
 
 ## 👨‍💻 Author
 
-Developed by **\Tom Morara\** — inspired by the Urban Elements Workshop project.
+Developed by **Tom Morara** — inspired by the *Urban Elements Workshop* project.
+
