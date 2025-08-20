@@ -9,13 +9,16 @@ Backend: <strong>Node.js + Express + MongoDB</strong> • Frontend: <strong>Reac
 
 ## 📑 Quick Access
 
+## 📑 Quick Access
+
 - [🚀 Features](#-features)
 - [📂 Project Structure](#-project-structure)
 - [⚙️ Installation & Setup](#️-installation--setup)
 - [🔐 Environment Variables](#-environment-variables)
 - [🛤️ API Endpoints](#️-api-endpoints)
-- [�� Future Improvements](#-future-improvements)
-- [��‍💻 Author](#-author)
+- [📌 Future Improvements](#-future-improvements)
+- [💻 Author](#-author)
+
 
 ---
 
